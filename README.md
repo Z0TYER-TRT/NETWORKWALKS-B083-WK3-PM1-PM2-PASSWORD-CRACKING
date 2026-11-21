@@ -7,8 +7,8 @@ Two modules, both required:
 - **PM1** — cracking a locked PDF using John the Ripper (JTR) and its GUI front-end, Johnny.
 - **PM2** — cracking a locked PDF using NetworkWalks' own browser-based Hash Calculator and Password Cracker tools, no install required.
 
-**Author:** Sayan Dutta
-**Batch:** B084, NetworkWalks
+**Author:** Sayan Samanta 
+**Batch:** B083, NetworkWalks
 
 Same scope note as always — everything here is a locked PDF deliberately provided by NetworkWalks for this exercise. No real files, systems, or third parties are involved.
 
@@ -137,4 +137,4 @@ If you compare the hashes above, you'll notice PM1 and PM2 actually cracked two 
 
 ---
 
-**Sayan Dutta** — Batch B084, NetworkWalks Cybersecurity Program
+**Sayan Samanta** — Batch B083, NetworkWalks Cybersecurity Program
